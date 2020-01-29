@@ -23,4 +23,3 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 1. [Lab-7](Lab-7) - This lab will feature Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI. 
 
-1. [Lab-8](Lab-8) - In this lab, you will learn some of the fundamentals of using RStudio and Shiny in Watson Studio to work and interact with data in a DB2 Warehouse on Cloud database and then to create a fully operational "reactive" web application that you can enhance further.
