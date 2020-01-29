@@ -18,7 +18,7 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_01-16-2020/raw/master/Lab-1/SetupEnvironmentv6.0.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_01-30-2020/raw/master/Lab-1/SetupEnvironmentv7.0.pdf).
 
 
 
